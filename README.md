@@ -36,7 +36,7 @@ You can find the detailed session calendar [here](#october-2024-calendar).
 | **October 7**  | Twitter Spaces    | CHAOSS Metrics Projects: Key Contribution Areas                |
 | **October 8**  | LinkedIn Live     | Applying for Outreachy with Oppia: Tips and Guidance            |
 | **October 9**  | Twitter Spaces    | Q&A on Hacktoberfest and Outreachy Contributions                |
-| **October 10** | LinkedIn Live     | Open Source Mentorship: How to Get Mentorship in Open Source    |
+| **October 10** | LinkedIn Live     | Open Source Mentorship: How to Get Paid Internships in Open Source    |
 | **October 11** | Twitter Spaces    | Key Tools and Resources for Hacktoberfest & Outreachy           |
 | **October 12** | LinkedIn Live     | Overcoming Challenges in Open Source Contributions              |
 | **October 13** | Twitter Spaces    | The Role of Diversity in Open Source: Outreachy and Beyond      |
