@@ -63,7 +63,7 @@ We’ve created a handy [FAQ guide](#faq) to answer common questions about Hackt
 ## ⏯️ Live Session Replays:
 
 Feel free to watch replays of the live sessions here:
-- **YouTube**: []
+- **YouTube**: [https://www.youtube.com/@MyLifeAsYiga]
 
 Let’s make open source a welcoming place for everyone. Happy contributing ❤️!
 
